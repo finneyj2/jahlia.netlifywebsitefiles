@@ -1,3 +1,12 @@
 # run checks on Markdown writing through proselint script:
 # Markdown
 - proselint README.md
+
+before_install:
+  - gem install mdl
+notifications: 
+  email: never
+script: 
+  - mdl README.md 
+
+
