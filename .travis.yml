@@ -3,6 +3,7 @@
 
 
 before_install:
+  - pip install proselint
   - gem install mdl
 notifications: 
   - email: never
