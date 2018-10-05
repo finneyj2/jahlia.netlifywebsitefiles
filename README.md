@@ -1,5 +1,5 @@
 # Hugo template for Netlify CMS with Netlify Identity
-#This is the Website that I created from the one-click hugo template. 
+#This is the Website that I created from the one-click hugo template.
 
 
 
@@ -47,6 +47,6 @@ All SVG icons stored in `site/static/img/icons` are automatically optimized with
 
 ```
 <svg width="16px" height="16px" class="db">
-  <use xlink:href="#SVG-ID"></use>
+  <use xlink:href=``#SVG-ID``></use>
 </svg>
 ```
