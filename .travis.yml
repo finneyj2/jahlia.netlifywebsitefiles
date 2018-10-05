@@ -5,7 +5,7 @@
 before_install:
   - gem install mdl
 notifications: 
-  email: never
+  - email: never
 script: 
   - mdl README.md 
 
