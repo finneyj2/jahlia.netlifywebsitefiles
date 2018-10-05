@@ -1,7 +1,7 @@
 # run checks on Markdown writing through proselint script:
 # Markdown
 
-
+language: python
 before_install:
   - pip install proselint
   - gem install mdl
