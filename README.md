@@ -11,6 +11,7 @@ by [Darin Dimitroff](http://www.darindimitroff.com/),
 
 Use our deploy button to get your own copy of the repository.
 This will setup everything needed for running the CMS:
+
 * A new repository in your GitHub account with the code
 * Full Continuous Deployment to Netlify's global CDN network
 * Control users and access with Netlify Identity
