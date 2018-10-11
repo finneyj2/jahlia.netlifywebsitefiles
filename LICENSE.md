@@ -1,4 +1,5 @@
 Copyright (c) 2018 Jahlia Finney
+Copyright (c) 2016 Netlify <hello@netlify.com>
 
 I used a Netlify template to build this website, specifically one click hugo(https://github.com/netlify-templates/one-click-hugo-cms).
 
