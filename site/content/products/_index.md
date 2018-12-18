@@ -1,42 +1,12 @@
 ---
-title: Our Coffee
-type: products
-image: /img/products-jumbotron.jpg
-heading: What we offer
+title: What is human factors Psychology?
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  Human Factors Psychology is a large field of study that can focus on anything from workplace safety to human error to even product design. Simply put, human factors psychology focuses on applying the principles of psychology so that devices can be used safely. It is also used to create work environments that keep employers productive and safe. It's main area of emphasis is on how people interact with their environment, and ensuring that it is as safe and as efficient as possible.
 
 
 full_image: /img/products-full-width.jpg
-pricing:
-  heading: Monthly subscriptions
+  heading: Some good resources to look into if you're interested in human factors psychology
   description: >-
-    We make it easy to make great coffee a part of your life. Choose one of our
-    monthly subscription plans to receive great coffee at your doorstep each
-    month. Contact us about more details and payment info.
-  plans:
-    - description: Perfect for the drinker who likes to enjoy 1-2 cups per day.
-      items:
-        - 3 lbs of coffee per month
-        - Green or roasted beans"
-        - One or two varieties of beans"
-      plan: Small
-      price: '50'
-    - description: 'Great for avid drinkers, java-nsoving couples and bigger crowds'
-      items:
-        - 6 lbs of coffee per month
-        - Green or roasted beans
-        - Up to 4 different varieties of beans
-      plan: Big
-      price: '80'
-    - description: Want a few tiny batches from different varieties? Try our custom plan
-      items:
-        - Whatever you need
-        - Green or roasted beans
-        - Unlimited varieties
-      plan: Custom
-      price: '?'
----
+   1. https://www.hfes.org/
+   2.https://www.apa.org/action/science/human-factors/education-training.aspx
+   3.https://www.apadivisions.org/division-21/index.aspx
